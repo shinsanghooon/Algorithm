@@ -5,7 +5,6 @@ data = list(map(int, input().split()))
 data.sort()
 # 1, 2, 2, 2, 3
 
-
 count = 0
 now_count = 0
 for i in data:
