@@ -1,4 +1,4 @@
-java/out/*
-java/src/basic/*
+java/out/
+java/src/basic/
 
 .DS_Store
