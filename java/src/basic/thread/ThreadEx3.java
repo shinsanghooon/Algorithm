@@ -1,6 +1,6 @@
 package basic.thread;
 
-public class ThreadEx2 {
+public class ThreadEx3 {
     public static void main(String[] args) {
         ThreadEx2_1 threadEx2_1 = new ThreadEx2_1();
         threadEx2_1.start();

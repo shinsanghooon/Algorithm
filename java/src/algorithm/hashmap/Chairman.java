@@ -1,7 +1,6 @@
 package algorithm.hashmap;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class Chairman {
@@ -38,8 +37,6 @@ public class Chairman {
         String str = scanner.next();
 
         System.out.println(T.solution(n, str));
-
-
 
     }
 }
