@@ -1,22 +1,34 @@
 package algorithm.stackqueue;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Emergency {
 
     private int solution(int n, int m, int[] arr) {
-        int answer = 1;
+        int answer = 0;
 
-        int target = arr[m];
+        Queue<Integer> queue = new LinkedList<>();
         for (int i = 0; i < n; i++) {
-            if (arr[i] >= target) {
-                if (arr[i] == target) {
-                    if (i < m) {
-                        answer ++;
-                    }
+            queue.offer(arr[i]);
+        }
+
+        while (true) {
+            int peek = queue.peek();
+            int max = Collections.max(queue);
+            if (peek < max) {
+                queue.offer(queue.poll());
+                if (m != 0) {
+                    m--;
                 } else {
-                    answer++;
+                    m = queue.size() - 1;
                 }
+            } else {
+                queue.poll();
+                answer++;
+                if (m == 0) {
+                    break;
+                }
+                m--;
             }
         }
 
