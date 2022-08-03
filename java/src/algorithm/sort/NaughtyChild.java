@@ -1,6 +1,7 @@
 package algorithm.sort;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class NaughtyChild {
@@ -28,6 +29,22 @@ public class NaughtyChild {
                     answer.add(i + 1);
                     answer.add(after + 1);
                 }
+            }
+        }
+
+        return answer;
+    }
+
+
+    private ArrayList<Integer> solution2(int n, int[] arr) {
+        ArrayList<Integer> answer = new ArrayList<>();
+
+        int[] tmp = arr.clone();
+        Arrays.sort(tmp);
+
+        for (int i = 0; i < n; i++) {
+            if (arr[i] != tmp[i]) {
+                answer.add(i+1);
             }
         }
 
