@@ -18,13 +18,22 @@ public class SameSumPartialSet {
             return;
         }
 
-        if (L==n) {
-            System.out.println("total = " + total);
-            System.out.println("sum = " + sum);
-            if (total - sum == sum) {
-                answer = "YES";
-                flag=true;
-            }
+//        if (L==n) {
+//            System.out.println("total = " + total);
+//            System.out.println("sum = " + sum);
+//            if (total - sum == sum) {
+//                answer = "YES";
+//                flag=true;
+//            }
+//        } else {
+//            DFS(L + 1, sum + arr[L], arr);
+//            DFS(L + 1, sum, arr);
+//        }
+
+
+        if (total - sum == sum) {
+            answer = "YES";
+            flag = true;
         } else {
             DFS(L + 1, sum + arr[L], arr);
             DFS(L + 1, sum, arr);
