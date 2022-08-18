@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class MaxScore {
 
     static int answer = Integer.MIN_VALUE, n, m;
-    boolean flag = false;
 
     public void DFS(int L, int sum, int time, int[] ps, int[] pt) {
 
@@ -14,9 +13,11 @@ public class MaxScore {
         }
 
         if (L == n) {
-            answer = Math.max(answer, sum);
+            // 끝에 도달했을 때
+            answer = Math.max(sum, answer);
         } else {
-            DFS(L + 1, sum + ps[L], time+ pt[L], ps, pt);
+            // 트리를 더 만든다
+            DFS(L + 1, sum + ps[L], time + pt[L], ps, pt);
             DFS(L + 1, sum, time, ps, pt);
         }
 
