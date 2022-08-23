@@ -1,7 +1,6 @@
 package algorithm.dfsbfs2;
 
 import java.util.Scanner;
-import java.util.concurrent.LinkedTransferQueue;
 
 public class GuessPermutation {
 
