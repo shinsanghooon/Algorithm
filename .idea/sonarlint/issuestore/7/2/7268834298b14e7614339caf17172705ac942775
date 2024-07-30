@@ -1,0 +1,25 @@
+
+i
+java:S1104	"SMake coinSum a static final constant or non-public and provide accessors if needed.(÷úÆ›
+c
+java:S1104"MMake L a static final constant or non-public and provide accessors if needed.(«“ÒÐ
+o
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(„€­½ûÿÿÿÿ8æý½ì“1
+o
+java:S1104"RMake target a static final constant or non-public and provide accessors if needed.(‹ÿ®„8æý½ì“1
+m
+java:S1104"QMake coins a static final constant or non-public and provide accessors if needed.(åî›N8çý½ì“1
+I
+java:S1444"'Make this "public static n" field final(„€­½ûÿÿÿÿ8èý½ì“1
+I
+java:S1444",Make this "public static target" field final(‹ÿ®„8èý½ì“1
+G
+java:S1444"+Make this "public static coins" field final(åî›N8èý½ì“1
+,
+java:S1700	"Rename field "coinSum"(÷úÆ›
+a	java:S116"LRename this field "L" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«“ÒÐ
+2
+java:S2386"Make this member "protected".(åî›N
+]	java:S125"<This block of commented-out lines of code should be removed.(ÔõñÖüÿÿÿÿ8¶»ì“1
+X	java:S125"<This block of commented-out lines of code should be removed.(ˆöº“8»€Àì“1
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(â§Ê€úÿÿÿÿ

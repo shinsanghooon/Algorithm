@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âÊŒÝ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(Î®óÑ
+h	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Íúáûÿÿÿÿ
+K
+java:S2696,"6Make the enclosing method "static" or remove this set.(ù¼Ï*
+<
+java:S1068"&Remove this unused "ch" private field.(¢èìþ

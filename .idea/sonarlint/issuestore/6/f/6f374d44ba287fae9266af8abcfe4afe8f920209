@@ -1,0 +1,16 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñÀ½
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜœØşÿÿÿÿ
+s	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãşÔıÿÿÿÿ
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(î»æ¨8áñäÔ1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(²”¦úÿÿÿÿ8âñäÔ1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(æÔêñûÿÿÿÿ8âñäÔ1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8ü¡éÔ1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(²”¦úÿÿÿÿ8­ëÔ1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(æÔêñûÿÿÿÿ8°ìÔ1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8¨‰íÔ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8íÕ1

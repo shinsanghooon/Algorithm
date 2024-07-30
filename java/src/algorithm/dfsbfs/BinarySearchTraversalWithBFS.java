@@ -26,22 +26,27 @@ public class BinarySearchTraversalWithBFS {
 
         Q.offer(root);
         int L = 0;
+
         while (!Q.isEmpty()) {
             int len = Q.size();
             System.out.print(L + " : ");
             for (int i = 0; i < len; i++) {
                 NodeBFS cur = Q.poll();
                 System.out.print(cur.data + " ");
+
                 if (cur.lt != null) {
                     Q.offer(cur.lt);
                 }
+
                 if (cur.rt != null) {
                     Q.offer(cur.rt);
                 }
             }
-            System.out.println();
             L++;
+            System.out.println();
         }
+
+
     }
 
     public static void main(String[] args) {

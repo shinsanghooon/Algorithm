@@ -46,7 +46,5 @@ public class ShortestPathFromRootToLeaf_BFS {
 
         System.out.println(tree.BFS(tree.root));
 
-
-
     }
 }

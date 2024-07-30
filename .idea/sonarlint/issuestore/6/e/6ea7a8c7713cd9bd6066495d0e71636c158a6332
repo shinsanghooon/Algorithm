@@ -1,0 +1,20 @@
+
+J
+java:S3740)"/Provide the parametrized type for this generic.(îºâ„úÿÿÿÿ
+E
+java:S10661"/Merge this if statement with the enclosing one.(Í­Å÷
+U
+java:S1854":Remove this useless assignment to local variable "result".(•Ë£þþÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(•Ë£þþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÃÇ±à
+U
+java:S1854#"?Remove this useless assignment to local variable "possibleMap".(óÎ–ð
+F
+java:S1481#"0Remove this unused "possibleMap" local variable.(óÎ–ð
+Q	java:S125+"<This block of commented-out lines of code should be removed.(þ™öç
+Q	java:S1257"<This block of commented-out lines of code should be removed.(êÜÈ•
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿ

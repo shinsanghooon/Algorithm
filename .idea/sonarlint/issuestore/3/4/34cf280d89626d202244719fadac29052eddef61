@@ -1,0 +1,8 @@
+
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–òûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œíù°úÿÿÿÿ8Ç¯Çä‹1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ8ÇùÌä‹1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8øÎä‹1
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8øÎä‹1

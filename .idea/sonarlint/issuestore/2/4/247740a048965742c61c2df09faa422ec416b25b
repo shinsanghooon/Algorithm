@@ -1,0 +1,20 @@
+
+t
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¶²ıúÿÿÿÿ
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰å¡â
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œâè
+Y
+java:S1659">Declare "m" and all following declarations on a separate line.(¨ƒÆûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüŠÒşÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(Ìª„¢şÿÿÿÿ
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(Á¤¬\
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ÚĞÑüøÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(şƒ€
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(‘†åıÿÿÿÿ
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÔãÆ›’1

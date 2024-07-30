@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class FindingPathArray {
     static int[] ch; // 체크 배열
+
+    // 어레이 리스트를 저장하는 어레이 리스트
     static ArrayList<ArrayList<Integer>> graph;
     static int n, m, answer = 0;
 
@@ -27,7 +29,7 @@ public class FindingPathArray {
     public static void main(String[] args) {
 
         // N이 매우 커질 경우 인접행렬을 사용하기가 어려워진다.
-        // n = 10,000?
+        // n = 10,000 인 경우, 배열은 100,000,000이 된다.
         FindingPathArray T = new FindingPathArray();
 
         Scanner sc = new Scanner(System.in);

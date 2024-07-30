@@ -1,0 +1,5 @@
+
+P
+java:S1121 ".Extract the assignment out of this expression.(¾Ê¼üÿÿÿÿÿ8­Ç“”1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„¿†³8Âï…“”1
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÁÕ¢

@@ -1,0 +1,9 @@
+
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÀĞ§ıÿÿÿÿ
+C
+java:S1172	"(Remove this unused method parameter "n".(îœ¿üÿÿÿÿ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(·”‰úÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ù©È±
+I
+java:S1144'".Remove this unused private "solution2" method.(–íÁ¼úÿÿÿÿ

@@ -1,0 +1,11 @@
+
+Y
+java:S1659">Declare "n" and all following declarations on a separate line.(¾Ú´¸ıÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ÍâËí
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âÊŒİ
+J
+java:S1172"4Remove these unused method parameters "target", "n".(·éı©
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÊªçşÿÿÿÿ
+L
+java:S2696!"6Make the enclosing method "static" or remove this set.(¬ÃÎ

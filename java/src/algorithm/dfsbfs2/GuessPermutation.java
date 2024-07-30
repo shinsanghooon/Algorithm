@@ -66,6 +66,10 @@ public class GuessPermutation {
             b[i] = T.combi(n - 1, i);
         }
 
+        for (int i : b) {
+            System.out.println("i = " + i);
+        }
+
         T.DFS(0, 0);
     }
 }

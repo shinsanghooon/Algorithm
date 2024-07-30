@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í½©¤úÿÿÿÿ
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8±ÄİÁô0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ8·ÎßÁô0
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
